@@ -1,0 +1,40 @@
+[
+    {
+        "title": "2 + 2",
+        "description": "W progresywnej szkole",
+        "answers": [
+            {
+                "title": "4",
+                "correct": true
+            },
+            {
+                "title": "5",
+                "correct": true
+            },
+            {
+                "title": "nie wiem",
+                "correct": false
+            },
+            {
+                "title": "wiem ale nie powiem",
+                "correct": true
+            }
+        ],
+        "value": 4 
+    },
+    {
+        "title": "Pi?",
+        "description": "Śmierć szczurow",
+        "answers": [
+            {
+                "title": "PI",
+                "correct": true
+            },
+            {
+                "title": "pi",
+                "correct": false
+            }
+        ],
+        "value": 5
+    }
+]

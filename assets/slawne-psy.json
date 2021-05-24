@@ -1,0 +1,117 @@
+[
+    {
+        "title": "Jak nazywała się suczka wystrzelona na 3 listopada 1957 roku na orbitę okołoziemską w radzieckim satelicie Sputnik 2?",
+        "description": "Wybierz prawidłową odpowiedź",
+        "answers": [
+            {
+                "title": "Kudriawka",
+                "correct": false
+            },
+            {
+                "title": "Limocznik",
+                "correct": false
+            },
+            {
+                "title": "Łajka",
+                "correct": true
+            },
+            {
+                "title": "Muttnik",
+                "correct": false
+            }
+        ],
+        "value": 5
+    },
+    {
+        "title": "Wietierok i Ugolok były psami które ustanowiły rekord w kategorii długości lotu w kosmosie dla psów (23 dni). Ze względu na ciemny kolor sierści Ugolok tuż przed startem został przemianowany. Jakie było jego oryginalne imię?",
+        "description": "Wybierz prawidłową odpowiedź",
+        "answers": [
+            {
+                "title": "Śnieżok",
+                "correct": true
+            },
+            {
+                "title": "Bielżyk",
+                "correct": false
+            },
+            {
+                "title": "Biełka",
+                "correct": false
+            },
+            {
+                "title": "Malkierok",
+                "correct": false
+            }
+        ],
+        "value": 5
+    },
+    {
+        "title": "Suczki Biełka i Striełka jako pierwsze zwierzęta odbyły lot orbitalny i wróciły na Ziemię żywe. Lecz nie były to jedyne zwierzęta na pokładzie satelity. Które z tych zwierząt nie znajdowało się na pokładzie satelity podczas lotu?",
+        "description": "Wybierz prawidłową odpowiedź",
+        "answers": [
+            {
+                "title": "Białe myszy",
+                "correct": false
+            },
+            {
+                "title": "Białe króliki",
+                "correct": true
+            },
+            {
+                "title": "Czarne muszki owocowe",
+                "correct": false
+            },
+            {
+                "title": "Czarne myszy",
+                "correct": false
+            }
+        ],
+        "value": 5
+    },
+    {
+        "title": "Jak nazywała się satelita która została wystrzelona na orbitę okołoziemską  19 sierpnia 1960 z dwoma suczkami na pokładzie (Biełka i Striełka).",
+        "description": "Wybierz prawidłową odpowiedź",
+        "answers": [
+            {
+                "title": "Sputnik 2",
+                "correct": false
+            },
+            {
+                "title": "Sputnik 3",
+                "correct": false
+            },
+            {
+                "title": "Sputnik 4",
+                "correct": false
+            },
+            {
+                "title": "Sputnik 5",
+                "correct": true
+            }
+        ],
+        "value": 5
+    },
+    {
+        "title": "Jak nazywał się psi partner/partnerka w kosmicznej podróży Ugoloka",
+        "description": "Wybierz prawidłową odpowiedź",
+        "answers": [
+            {
+                "title": "Kudriawka",
+                "correct": false
+            },
+            {
+                "title": "Wietierok",
+                "correct": true
+            },
+            {
+                "title": "Striełka",
+                "correct": false
+            },
+            {
+                "title": "Śnieżok",
+                "correct": false
+            }
+        ],
+        "value": 5
+    }
+]
